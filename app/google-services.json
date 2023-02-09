@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605497099480",
+    "firebase_url": "https://firstride-9b272-default-rtdb.firebaseio.com",
+    "project_id": "firstride-9b272",
+    "storage_bucket": "firstride-9b272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605497099480:android:a3d0c207cd6996d9ca43ad",
+        "android_client_info": {
+          "package_name": "com.example.realtimechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605497099480-8t33revsf3447jmg582bh4sn9aug3q29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimechatapp",
+            "certificate_hash": "d2f9bb7259abbb096360d34a2aed07b1c3a68121"
+          }
+        },
+        {
+          "client_id": "605497099480-nb6mjd3uh7jnkr4pb540oqn93s32eqna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1Bv1jqyFhD36NfOsa0dDMvvIEJGgUOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605497099480-nb6mjd3uh7jnkr4pb540oqn93s32eqna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
